@@ -1,7 +1,7 @@
 CC = g++
 
 all: Bitmap.o main.o
-	$(CC) Bitmap.o main.o -o cut
+	$(CC) Bitmap.o main.o -o cutt
 
 Bitmap.o: Bitmap.cpp Bitmap.hpp
 	$(CC) -g -c Bitmap.cpp
@@ -11,4 +11,4 @@ main.o: Bitmap.hpp main.cpp
 	
 clean:
 	rm *.o
-	rm cut
+	rm cutt
