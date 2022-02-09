@@ -11,4 +11,4 @@ Usage:
     make clean
 ```
 
-Credit: [Nghia Vo](https://github.com/mekanican)
+Credit: Special thank to [Nghia Vo](https://github.com/mekanican)
